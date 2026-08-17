@@ -1,0 +1,74 @@
+{
+  "FL": {
+    "rotation": {
+      "gpio": 6,
+      "center": 60,
+      "min": 0,
+      "max": 120,
+      "invert": true,
+      "calibrated": true
+    },
+    "lift": {
+      "gpio": 26,
+      "center": 90,
+      "min": 0,
+      "max": 180,
+      "invert": true,
+      "calibrated": true
+    }
+  },
+  "FR": {
+    "rotation": {
+      "gpio": 13,
+      "center": 54,
+      "min": 0,
+      "max": 108,
+      "invert": false,
+      "calibrated": true
+    },
+    "lift": {
+      "gpio": 5,
+      "center": 90,
+      "min": 0,
+      "max": 180,
+      "invert": false,
+      "calibrated": true
+    }
+  },
+  "BL": {
+    "rotation": {
+      "gpio": 22,
+      "center": 60,
+      "min": 0,
+      "max": 140,
+      "invert": true,
+      "calibrated": true
+    },
+    "lift": {
+      "gpio": 27,
+      "center": 70,
+      "min": 0,
+      "max": 180,
+      "invert": true,
+      "calibrated": true
+    }
+  },
+  "BR": {
+    "rotation": {
+      "gpio": 4,
+      "center": 50,
+      "min": 0,
+      "max": 135,
+      "invert": false,
+      "calibrated": true
+    },
+    "lift": {
+      "gpio": 17,
+      "center": 80,
+      "min": 0,
+      "max": 180,
+      "invert": false,
+      "calibrated": true
+    }
+  }
+}
