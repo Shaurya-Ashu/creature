@@ -44,6 +44,12 @@ I have designed one for you guys in easyEDA but I have build it on a perfboard .
 
 <img width="964" height="1280" alt="WhatsApp Image 2026-08-17 at 12 18 21" src="https://github.com/user-attachments/assets/3995d346-c6dc-4730-8e0e-4b8eeabdf790" />
 
+# CAD 
+I used Fusion 360 student license for the cad 
+
+just print out the part-1&3 2times each and part-2 4times each from the cad section of the repo 
+<img width="2880" height="1226" alt="v0 0_2026-Aug-17_07-07-40AM-000_CustomizedView16426270922_png_alpha" src="https://github.com/user-attachments/assets/681345d7-a071-4693-953c-f38ab1994a39" />
+
 # poses
 It can perform many poses some of them are given below:
 Handstand
